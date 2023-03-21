@@ -1,0 +1,36 @@
+BODY{
+    background-color: antiquewhite;
+}
+.form{
+    text-align: center;
+}
+.mb-3{
+    padding: 20px;
+}
+img{
+    width: 20%;
+    border-radius: 100%;
+}
+label{
+    font-size: xx-large;
+    padding: 20px;
+}
+input{
+    height: 50px;
+    width: 30%;
+}
+.btn_login{
+    width: 30%;
+    padding: 20px;
+    background-color: #6f42c1;
+    border: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.btn_registro{
+    font-size: x-large;
+    text-decoration: line-through;
+}
